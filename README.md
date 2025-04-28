@@ -112,8 +112,8 @@ If fewer than four satellites remain after filtering, positioning for that epoch
 
 ## Experimental Results
 
-- Standard method: 3D RMS error = 85.13 m, Std Dev = 35.33 m.
-- Skymask filtering: 3D RMS error = 100.36 m, Std Dev = 33.18 m.
+- Standard method: 3D RMS error = 85 m, Std Dev = 35 m.
+- Skymask filtering: 3D RMS error = 100 m, Std Dev = 33 m.
 
 Result Graph:  
 **[Insert Skymask Filtering Result Image Here]**  

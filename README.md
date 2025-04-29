@@ -2,8 +2,8 @@
 
 ```
 Gen AI is used in Task 1, 4, and 5
-Model: Chatgpt-4o
-Chatting history: https://chatgpt.com/share/6810450f-1c64-8007-8813-b779aa655107
+Model: ChatGPT-4o
+Link: https://chatgpt.com/share/6810450f-1c64-8007-8813-b779aa655107
 ```
 
 # Task 1 – Differential GNSS Positioning: Evaluating Advanced GNSS Techniques for Smartphone Applications
